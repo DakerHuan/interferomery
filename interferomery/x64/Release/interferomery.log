@@ -1,0 +1,123 @@
+﻿  stdafx.cpp
+  AperAndFilt.cpp
+  AperSet.cpp
+d:\四川项目\interferomery\interferomery\aperset.cpp(307): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\四川项目\interferomery\interferomery\aperset.cpp(378): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\aperset.cpp(379): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\aperset.cpp(527): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\四川项目\interferomery\interferomery\aperset.cpp(527): note: 请考虑在格式字符串中使用“%zd”
+d:\四川项目\interferomery\interferomery\aperset.cpp(538): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\四川项目\interferomery\interferomery\aperset.cpp(538): note: 请考虑在格式字符串中使用“%zd”
+d:\四川项目\interferomery\interferomery\aperset.cpp(548): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\aperset.cpp(759): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CvvImage.cpp
+  InfSet.cpp
+  interferomery.cpp
+d:\四川项目\interferomery\interferomery\registry.h(16): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(16): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(17): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(17): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(18): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(18): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(19): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(19): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(20): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(20): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(21): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(21): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(23): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(23): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+  interferomeryDlg.cpp
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(307): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(377): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(408): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(479): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(509): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1174): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1217): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1241): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1271): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1384): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1388): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1406): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1428): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(1490): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(4516): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(4533): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(4534): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(4843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5144): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5145): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5147): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5148): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5911): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(6280): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(6313): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(6327): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  NewMenu.cpp
+  PrintFrame.cpp
+d:\四川项目\interferomery\interferomery\printframe.cpp(26): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  PrintPreviewView.cpp
+  PrintView.cpp
+  putText.cpp
+d:\四川项目\interferomery\interferomery\puttext.cpp(7): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\puttext.cpp(108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\puttext.cpp(113): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\四川项目\interferomery\interferomery\puttext.cpp(124): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Registry.cpp
+d:\四川项目\interferomery\interferomery\registry.h(16): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(16): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(17): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(17): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(18): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(18): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(19): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(19): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(20): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(20): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(21): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(21): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.h(23): warning C4311: “类型强制转换”: 从“HKEY”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.h(23): warning C4302: “类型强制转换”: 从“HKEY”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.cpp(38): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\四川项目\interferomery\interferomery\registry.cpp(105): warning C4311: “类型强制转换”: 从“DWORD *”到“DWORD”的指针截断
+d:\四川项目\interferomery\interferomery\registry.cpp(105): warning C4302: “类型强制转换”: 从“DWORD *”到“DWORD”截断
+d:\四川项目\interferomery\interferomery\registry.cpp(105): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“BYTE *”
+  TaskDispose.cpp
+  ZERNIKE.CPP
+  正在生成代码
+d:\四川项目\interferomery\interferomery\printpreviewview.cpp(41): warning C4717: “CPrintPreviewView::OnEndPrintPreview”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(6067): warning C4715: “CinterferomeryDlg::OnCtlColor”: 不是所有的控件路径都返回值
+d:\四川项目\interferomery\interferomery\interferomerydlg.cpp(5725): warning C4715: “CinterferomeryDlg::DrawResult”: 不是所有的控件路径都返回值
+  All 1209 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  interferomery.vcxproj -> D:\四川项目\interferomery\x64\Release\interferomery.exe
